@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f984c2b3-0485-4fd3-9833-08e1e5fa0a98" name="Changes" comment="quinto commit">
-      <change afterPath="$PROJECT_DIR$/programa 11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programa_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programa_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programa_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programa_9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programa_13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +49,7 @@
     "Python.programa 11.executor": "Run",
     "Python.programa_1.executor": "Run",
     "Python.programa_10.executor": "Run",
+    "Python.programa_12.executor": "Run",
     "Python.programa_2.executor": "Run",
     "Python.programa_3.executor": "Run",
     "Python.programa_4.executor": "Run",
@@ -73,6 +69,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pacom\PycharmProjects\actividad_participacion_65" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -92,7 +93,7 @@
       <workItem from="1722807519495" duration="944000" />
       <workItem from="1722808512070" duration="83000" />
       <workItem from="1722808602097" duration="1007000" />
-      <workItem from="1722809955652" duration="4201000" />
+      <workItem from="1722809955652" duration="4504000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <option name="closed" value="true" />
@@ -150,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722814835322</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="quinto commit">
+      <option name="closed" value="true" />
+      <created>1722817493632</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722817493632</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,14 +177,15 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_3.coverage" NAME="programa_3 Coverage Results" MODIFIED="1722813875239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_10.coverage" NAME="programa_10 Coverage Results" MODIFIED="1722816989633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_5.coverage" NAME="programa_5 Coverage Results" MODIFIED="1722814404747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_9.coverage" NAME="programa_9 Coverage Results" MODIFIED="1722816671786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_7.coverage" NAME="programa_7 Coverage Results" MODIFIED="1722815147154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_2.coverage" NAME="programa_2 Coverage Results" MODIFIED="1722813502873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_12.coverage" NAME="programa_12 Coverage Results" MODIFIED="1722817342837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
+    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_6.coverage" NAME="programa_6 Coverage Results" MODIFIED="1722814717652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_5.coverage" NAME="programa_5 Coverage Results" MODIFIED="1722814404747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_4.coverage" NAME="programa_4 Coverage Results" MODIFIED="1722814063820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_11.coverage" NAME="programa 11 Coverage Results" MODIFIED="1722817259433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_1.coverage" NAME="programa_1 Coverage Results" MODIFIED="1722807807098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_2.coverage" NAME="programa_2 Coverage Results" MODIFIED="1722813502873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_6.coverage" NAME="programa_6 Coverage Results" MODIFIED="1722814717652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/actividad_participacion_65$programa_8.coverage" NAME="programa_8 Coverage Results" MODIFIED="1722815225130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
